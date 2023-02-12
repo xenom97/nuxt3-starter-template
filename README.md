@@ -1,6 +1,15 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Starter Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
+
+## Features
+- Nuxt3
+- Eslint
+- Prettier
+- Husky
+- Commitlint
+- Tailwind & Postcss
 
 ## Setup
 
